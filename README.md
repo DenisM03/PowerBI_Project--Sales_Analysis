@@ -128,11 +128,11 @@ Presented Revenue and Profit margin across each year to display Revenue trends a
 
 * Shift marketing budget and sales force towards zones,customers and markets showing consistent sales growth. 
 
-* For markets Bengaluru, Bhubaneswar,Patna and Surat have low profitability, consider adjusting the pricing strategy or running targeted promotions to boost sales. Ensure that high-margin products are promoted in regions with strong purchasing power to maximize returns.
+* For markets Bengaluru,Bhubaneswar, Patna and Surat have low profitability, consider adjusting the pricing strategy or running targeted promotions to boost sales. Ensure that high-margin products are promoted in regions with strong purchasing power to maximize returns.
 
 * Reassess the sales strategy in Central and South zones with declining sales performance.
 
-* Based on  Revenu trends, ramp up production and inventory during Quarter 1,Quarter 3 and peak sales months like Januvary ,Februvary,March and June. Ensure that sales and marketing teams focus on high-demand periods to maximize revenue.
+* Based on  Revenu trends, ramp up production and inventory during Quarter 1,Quarter 3 and peak sales months like January, Februvary, March and June. Ensure that sales and marketing teams focus on high-demand periods to maximize revenue.
 
 * Tailor product recommendations and sales strategies for E-Commerce customer type.
 
