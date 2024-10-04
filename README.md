@@ -52,6 +52,21 @@ Revenue,total Sold Quantity, Average profit margin percenateg,Total profit margi
 
 **Dashboard**
 
+## **Home Page**
+![Screenshot 2024-10-04 151324](https://github.com/user-attachments/assets/edee63f7-f4ea-49be-95da-ebdac612be85)
+
+## **Market Analysis**  
+![Screenshot 2024-10-04 151501](https://github.com/user-attachments/assets/f086776f-0ea8-4a18-9fc5-3e93b96e7d1d)
+
+## **Customer Analysis** 
+![Screenshot 2024-10-04 151558](https://github.com/user-attachments/assets/065ed46e-aaa2-4dce-9126-5dbc7a69bfeb)
+
+
+## **Product Analysis** 
+![Screenshot 2024-10-04 151629](https://github.com/user-attachments/assets/d03ea6ab-7a42-4946-88c0-1c158cc1a405)
+
+## **Profitability Analysis** 
+![Screenshot 2024-10-04 151652](https://github.com/user-attachments/assets/82fd9e2e-16d3-4836-8f5a-9d67351a95a2)
 
 # **4.Data Analysis**
 I dived deep into analysis, uncovering trends, patterns, and opportunities.    
