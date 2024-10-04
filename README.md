@@ -7,12 +7,23 @@
 
 **Dashboard link** : -
 
-## **Objectives**
+
+## **Objectives** 🎯
 To unlock sales insights that are not visible before for sales team for decision support and automate them to reduce manual time spent in data gathering.        
 **Result:-**         
 An automated dashboard providing quick and latest sales insights in order to support data driven decision making.
 
-**Stakeholders** :-  
+## **Skills** ⚙️
+➡️ Power Bi    
+➡️ Power Query    
+➡️ DAX  
+➡️ Data Modelling   
+➡️ Dashboard    
+➡️ SQL     
+➡️ MYSQL  
+
+
+### **Stakeholders**💹  :- 
 Sales Director,Marketing Team,Customer Service Team,Data Analytics team,IT
 
 ## **Project Structure**
@@ -52,21 +63,8 @@ Revenue,total Sold Quantity, Average profit margin percenateg,Total profit margi
 
 **Dashboard**
 
-## **Home Page**
-![Screenshot 2024-10-04 151324](https://github.com/user-attachments/assets/edee63f7-f4ea-49be-95da-ebdac612be85)
-
-## **Market Analysis**  
 ![Screenshot 2024-10-04 151501](https://github.com/user-attachments/assets/f086776f-0ea8-4a18-9fc5-3e93b96e7d1d)
 
-## **Customer Analysis** 
-![Screenshot 2024-10-04 151558](https://github.com/user-attachments/assets/065ed46e-aaa2-4dce-9126-5dbc7a69bfeb)
-
-
-## **Product Analysis** 
-![Screenshot 2024-10-04 151629](https://github.com/user-attachments/assets/d03ea6ab-7a42-4946-88c0-1c158cc1a405)
-
-## **Profitability Analysis** 
-![Screenshot 2024-10-04 151652](https://github.com/user-attachments/assets/82fd9e2e-16d3-4836-8f5a-9d67351a95a2)
 
 # **4.Data Analysis**
 I dived deep into analysis, uncovering trends, patterns, and opportunities.    
@@ -91,7 +89,7 @@ Aggregated Profit margin across customer,Market and products.
 Presented Revenue and Profit margin across each year to display Revenue trends and Profit margin trends.
 
 
-# **5.Insights**  
+# **5.Insights**  💡
 
 - Total revenue is 984.87M with 2M units sold. 
 
@@ -127,7 +125,7 @@ Presented Revenue and Profit margin across each year to display Revenue trends a
 
 - Product details of 59 products are missing in products table grouped as [blank] address this issue to Marketing Team.
 
-# **6.Recommendations**
+# **6.Recommendations** ⚡
 
 * Allocate more resources to key Markets,Customers who generate the highest sales amount and profit margin. 
 
@@ -148,5 +146,13 @@ Presented Revenue and Profit margin across each year to display Revenue trends a
 * Products with low profit margin percentage may require a pricing revision. Consider increasing prices slightly or cutting costs related to production and distribution to improve profitability without losing competitiveness.
 
 * Try to implement discounts on products in low performing markets and customers.
+
+
+
+
+
+
+
+
 
 
