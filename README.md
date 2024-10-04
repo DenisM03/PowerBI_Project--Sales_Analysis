@@ -40,7 +40,9 @@ Built a data model with star schema to connect all dimension tables
 to fact table to access all data for analysis.
 
 Below is the data model which was built.
-![Uploading Screenshot 2024-10-04 154414.png…]()
+
+![Screenshot 2024-10-04 154414](https://github.com/user-attachments/assets/04908bf0-1aa7-4a89-8f58-5e46b1a307db)
+
 
 
 
