@@ -20,10 +20,9 @@ Sales Director,Marketing Team,Customer Service Team,Data Analytics team,IT
 1.Exploratory Data Analysis using SQL         
 2.ETL and Data Preprocessing           
 3.Creating Dashboard            
-4.Data Analysis           
-5.Reports  
-6.Insights           
-7.Reccomendations       
+4.Data Analysis             
+5.Insights           
+6.Reccomendations       
 
 
 # **1.Exploratory Data Analysis using SQL**
@@ -41,6 +40,8 @@ Built a data model with star schema to connect all dimension tables
 to fact table to access all data for analysis.
 
 Below is the data model which was built.
+![Uploading Screenshot 2024-10-04 154414.png…]()
+
 
 
 # **3.Creating Dashboard**
@@ -72,21 +73,8 @@ Aggregated Profit margin across customer,Market and products.
 **5.Time-Based Analysis**      
 Presented Revenue and Profit margin across each year to display Revenue trends and Profit margin trends.
 
-# **5.Reports**  
 
-**Sales Performance** :- Evaluated sales among different Market,Customers and Products.      
-
-**Market Analysis**   :- Identified the most profitable markets by Revenue, and Sold quantity and also the most profitable zone.   
-
-**Customer Analysis** :- Identified the top customers by Revenue and Sold Quantity and which customer type generats more revenue.
-
-**Product Analysis**  :- Identified the best-selling products by sales quantity and highest revenue generating products.   
-
-**Cost and Profitability Analysis**  :- Identified the top Customers,Markets and Products based on Profit margin.
-
-**Time-Based Analysis** :- Identified most profitable year,month and quarter based revenue trend and which year,month and quarter had highest Profit margin.
-
-# **6.Insights**  
+# **5.Insights**  
 
 - Total revenue is 984.87M with 2M units sold. 
 
@@ -122,7 +110,7 @@ Presented Revenue and Profit margin across each year to display Revenue trends a
 
 - Product details of 59 products are missing in products table grouped as [blank] address this issue to Marketing Team.
 
-# **7.Recommendations**
+# **6.Recommendations**
 
 * Allocate more resources to key Markets,Customers who generate the highest sales amount and profit margin. 
 
