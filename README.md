@@ -5,7 +5,7 @@
 
 **Project Title** : Sales Analysis
 
-**Dashboard link** : -
+**Dashboard link** : - https://app.powerbi.com/view?r=eyJrIjoiOTdiZDM5ZGItNTNjZC00MzMzLWFmZjAtYzM5MWU3NTg4ODYxIiwidCI6IjUxNjk4MzNiLWUxZWItNDlkNC1iODBiLWM0MTNjOTMxMWZkYSJ9
 
 
 ## **Objectives** 🎯
